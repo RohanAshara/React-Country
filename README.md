@@ -1,6 +1,6 @@
 ## 🌍 Country World Atlas
 
-The Country World Atlas is an interactive web application that provides detailed information about countries worldwide. Built with React.js, CSS, JavaScript, and HTML, it offers users an engaging way to explore global data. ([GitHub - RohanMishra28/World-Atlas: A frontend World Atlas website built with React.js, CSS, JavaScript, and HTML. It showcases famous countries and flags on the homepage, allows users to explore detailed country data, search by name, and filter by continent (ascending/descending). An interactive tool to learn about world geography.](https://github.com/RohanMishra28/World-Atlas?utm_source=chatgpt.com))
+The Country World Atlas is an interactive web application that provides detailed information about countries worldwide. Built with React.js, CSS, JavaScript, and HTML, it offers users an engaging way to explore global data.
 
 ### 🔍 Features
 
@@ -8,7 +8,7 @@ The Country World Atlas is an interactive web application that provides detailed
 - **Search Functionality**: Allows users to search for countries by name.
 - **Filtering**: Filter countries based on continents in both ascending and descending order.
 - **Responsive Design**: Ensures a seamless experience across various devices.
-- **Contact Form**: Enables users to reach out with inquiries or feedback. ([GitHub - RohanMishra28/World-Atlas: A frontend World Atlas website built with React.js, CSS, JavaScript, and HTML. It showcases famous countries and flags on the homepage, allows users to explore detailed country data, search by name, and filter by continent (ascending/descending). An interactive tool to learn about world geography.](https://github.com/RohanMishra28/World-Atlas?utm_source=chatgpt.com))
+- **Contact Form**: Enables users to reach out with inquiries or feedback.
 
 ### 🛠️ Technologies Used
 
